@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "THE ASSOCIATED PRESS",
+        "title": "FACT FOCUS: Here's a look at some of the false claims made during Biden and Trump's first debate - The Associated Press",
+        "description": "President Joe Biden and former President Donald Trump have met for their first debate of the 2024 season, and there was no shortage of false claims. The Associated Press examined their statements during the 90-minute debate Thursday night. Trump once again fa…",
+        "url": "https://apnews.com/article/fact-check-misinformation-election-debate-trump-biden-577507522762aa10f6ee5be3a0ced2bb",
+        "urlToImage": "https://dims.apnews.com/dims4/default/c4c4d62/2147483647/strip/true/crop/3600x2025+0+188/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbc%2Fa2%2Fa1c8c29c2e06c65dc3fc68b019f2%2F42e710a523764dd4b18945db4edda00e",
+        "publishedAt": "2024-06-28T10:28:00Z",
+        "content": "President Joe Biden and former President Donald Trump traded barbs and a variety of false and misleading information as they faced off in their first debate of the 2024 election. \r\nTrump falsely repr… [+15303 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Ally Hill",
+        "title": "See how Trump and Biden respond when asked about their age during the debate - CNN",
+        "description": "President Joe Biden and former President Donald Trump respond to concerns about their age during the 2024 CNN Presidential Debate.",
+        "url": "https://www.cnn.com/2024/06/27/politics/video/age-biden-trump-cnn-debate-digvid",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20744192-427126-284-still.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-06-28T03:08:00Z",
+        "content": "President Joe Biden and former President Donald Trump respond to concerns about their age during the 2024 CNN Presidential Debate."
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Sacramento Bee"
+        },
+        "author": "Nicole Nixon",
+        "title": "Gavin Newsom defends President Joe Biden post-debate: ‘We’ve got to have this back’ - Sacramento Bee",
+        "description": "Gov. Gavin Newsom was in Atlanta Thursday to defend President Joe Biden as a 2024 election surrogate at the CNN presidential debate.",
+        "url": "https://www.sacbee.com/news/politics-government/capitol-alert/article289597872.html",
+        "urlToImage": "https://www.sacbee.com/latest-news/4hxhzu/picture279889199/alternates/LANDSCAPE_1140/Imagn-21518801.JPG",
+        "publishedAt": "2024-06-28T02:35:00Z",
+        "content": "Capitol Alert\r\nGov. Gavin Newsom defended president Joe Biden as a confident, energetic and competent leader with a as a contrast to former President Donald Trump during first Presidential debate of … [+4060 chars]"
+      },
+      {
+        "source": {
+          "id": "the-hill",
+          "name": "The Hill"
+        },
+        "author": "Rafael Bernal, Rebecca Beitsch",
+        "title": "Biden snaps at Trump over immigration lies - The Hill",
+        "description": "President Biden lost his patience with former President Trump’s falsehoods on immigration in Thursday’s debate, after trying to direct the topic toward the failed bipartisan Senate border deal. “Everything he says is a lie,” Biden said during the event held b…",
+        "url": "https://thehill.com/latino/4744920-joe-biden-donald-trump-immigration-border/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/06/MixCollage-27-Jun-2024-09-45-PM-557.jpg?w=1280",
+        "publishedAt": "2024-06-28T02:28:00Z",
+        "content": "President Biden lost his patience with former President Trumps falsehoods on immigration in Thursdays debate, after trying to direct the topic toward the failed bipartisan Senate border deal.\r\nEveryt… [+2386 chars]"
+      }
+    ]
+  }
